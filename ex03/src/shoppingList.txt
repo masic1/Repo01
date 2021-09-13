@@ -4,3 +4,4 @@ Shopping list:
 - Bananas;
 - Cheries;
 - Carrots;
+- Strawberries;
